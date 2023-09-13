@@ -1,0 +1,16 @@
+#root {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  font-size: 2rem;
+  height: 100%;
+
+  .main {
+    height: 100%;
+    padding: 1.5rem;
+
+    .number-counter {
+      margin-bottom: 2rem;
+    }
+  }
+}
